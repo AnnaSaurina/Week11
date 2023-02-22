@@ -1,72 +1,7 @@
 .container{
     display: grid;
-    width: 750px;
-    height: 600px;
-    grid-template-columns: 20 px 20 px 20 px 20 px;
-    grid-template-rows: 200 px 200 px 200 px 200 px;
-    gap: 1rem;
-}
-
-.item1{
-
-}
-
-.item2{
-
-}
-
-.item3{
-
-}
-
-.item4{
-
-}
-
-.item5{
-
-}
-
-.item6{
-
-}
-
-.item7{
-
-}
-
-.item8{
-
-}
-
-.item9{
-
-}
-
-.item10{
-
-}
-
-.item11{
-
-}
-
-.item12{
-
-}
-
-.item13{
-
-}
-
-.item14{
-
-}
-
-.item15{
-
-}
-
-.item16{
+    grid-template-columns: 300px auto 15% 15%;
+    grid-template-rows: 25% 25% 25% 25%;
+ 
 
 }

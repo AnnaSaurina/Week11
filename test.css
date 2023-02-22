@@ -1,0 +1,5 @@
+.box{
+    display: grid;
+    grid-template-columns: 300px 20% 20% 50%;
+    grid-template-rows: 50% 50%;
+}

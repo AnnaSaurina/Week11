@@ -2,6 +2,4 @@
     display: grid;
     grid-template-columns: 300px auto 15% 15%;
     grid-template-rows: 25% 25% 25% 25%;
- 
-
 }

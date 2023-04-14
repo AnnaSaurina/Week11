@@ -17,7 +17,7 @@ sale.addEventListener('click', () => {
     function plus() {
         let summ = document.querySelector(".sum");
         let sum = +priceProducts[0].textContent + +priceProducts[1].textContent + +priceProducts[2].textContent + +priceProducts[3].textContent;
-        summ.innerHTML = 'Итого ' + sum ;
+        summ.innerHTML = 'Итого: ' + sum ;
         };
         
         plus();
